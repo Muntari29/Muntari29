@@ -5,7 +5,7 @@
 	
   </div>
   
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheemun&show_icons=true&theme=radical)
+    ![Seung Hee Mun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungheemun&show_icons=true&theme=radical)
 <!--
 **Muntari29/Muntari29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
