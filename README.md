@@ -4,7 +4,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuntari29%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=dcffe4&height=170&section=header&text=Seung_Hee_Mun&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=dcffe4&height=170&section=header&text=Seung%20Hee%20Mun&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=70)
 
 
 <h3 align="center"> 👋 Hi there </h3>
