@@ -9,8 +9,9 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Seunghee Moon, a developer who enjoys life.<br>
+I'm Seunghee Mun, a back_end developer who enjoys life.<br>
 I am interested in the following fields.<br>
+Web, App and Data
 	
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
