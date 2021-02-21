@@ -22,7 +22,7 @@ Algorithms / Data structure / Database / Javascript / Deep Python
 </div>
 </details>
 </p>
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center"> &#128215; Technology Skills</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
@@ -35,7 +35,7 @@ Algorithms / Data structure / Database / Javascript / Deep Python
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">•••</h3>
+<h3 align="center">Contect me</h3>
 
 <p align="center">
   <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://codermun-log.tistory.com/"/></a>&nbsp
