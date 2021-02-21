@@ -12,8 +12,15 @@
 I'm Seunghee Mun, a back_end developer who enjoys life.<br>
 I am interested in the following fields.<br>
 Web, App and Data <br>
-So, I want to be a developer with strong basic skills.
-	
+So, I want to be a developer with strong basic skills.<br>
+<details align=center>
+<summary>I'm studying</summary>
+<div markdown="1">       
+
+Algorithms / Data structure / Database / Javascript / Deep Python
+
+</div>
+</details>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
@@ -28,10 +35,10 @@ So, I want to be a developer with strong basic skills.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">•••</h3>
+<h3 align="center">•••</h3> FFD400
 
 <p align="center">
-  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-FFD400?style=flat-square&logo=TV Time icon&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
   <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
   
 </p>
