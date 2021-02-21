@@ -38,8 +38,8 @@ Algorithms / Data structure / Database / Javascript / Deep Python
 <h3 align="center">•••</h3> FFD400
 
 <p align="center">
-  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-FFD400?style=flat-square&logo=TV Time icon&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFD400?style=flat-square&logo=TV Time icon&logoColor=white&link=https://codermun-log.tistory.com/"/></a>&nbsp
+  <a href="mailto:muntrock@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muntrok@gmail.com"/></a>
   
 </p>
 
