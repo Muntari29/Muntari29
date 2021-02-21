@@ -7,12 +7,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=dcffe4&height=170&section=header&text=Seung_Hee_Mun&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=70)
 
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h3 align="center"> 👋 Hi there </h3>
 <p align="center">
-I'm Seunghee Mun, a back_end developer who enjoys life.<br>
+I'm Seunghee Mun, a back_end developer who enjoys life. &#128640;<br>
 I am interested in the following fields.<br>
-Web, App and Data <br>
-So, I want to be a developer with strong basic skills.<br>
+Web, App and Data &#10024;<br>
+So, I want to be a developer with strong basic skills. &#128161;<br>
 <details align=center>
 <summary>I'm studying</summary>
 <div markdown="1">       
@@ -35,7 +35,7 @@ Algorithms / Data structure / Database / Javascript / Deep Python
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">•••</h3> FFD400
+<h3 align="center">•••</h3>
 
 <p align="center">
   <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://codermun-log.tistory.com/"/></a>&nbsp
