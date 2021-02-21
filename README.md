@@ -38,7 +38,7 @@ Algorithms / Data structure / Database / Javascript / Deep Python
 <h3 align="center">•••</h3> FFD400
 
 <p align="center">
-  <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFD400?style=flat-square&logo=TV Time icon&logoColor=white&link=https://codermun-log.tistory.com/"/></a>&nbsp
+  <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://codermun-log.tistory.com/"/></a>&nbsp
   <a href="mailto:muntrock@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muntrok@gmail.com"/></a>
   
 </p>
