@@ -9,7 +9,7 @@
 
 <h3 align="center"> 👋 Hi there </h3>
 <p align="center">
-I'm Seunghee Mun, a back_end developer who enjoys life. &#128640;<br>
+I'm Seunghee Mun, a front_end developer who enjoys life. &#128640;<br>
 I am interested in the following fields.<br>
 Web, App and Data &#10024;<br>
 So, I want to be a developer with strong basic skills. &#128161;<br>
@@ -17,23 +17,23 @@ So, I want to be a developer with strong basic skills. &#128161;<br>
 <summary>I'm studying</summary>
 <div markdown="1">       
 
-Algorithms / Data structure / Database / Javascript / Deep Python
+Algorithms / Data structure / CS / Deep Javascript / TypeScript / React
 
 </div>
 </details>
 </p>
 <h3 align="center"> &#128215; Tech Skills</h3>
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-square&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 </p>
 
 <h3 align="center">•••</h3>
