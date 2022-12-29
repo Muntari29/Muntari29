@@ -7,7 +7,7 @@
 # 👋 안녕하세요, 프론트엔드 개발자 문승희입니다.
 
 ## 좋은 개발자는 결국 함께 일하고 싶은 사람이다! 라는 생각을 갖고 살아가는 개발자입니다.👌
-- 리액트로 개발하는 것을 선호합니다!.
+<!-- - 리액트로 개발하는 것을 선호합니다!.
 - 반응형과 애니메이션을 구현 할 수 있습니다.
 - 문제가 발생한다면 원인을 파악하고 어떻게든 해결해낼 수 있다는 마음가짐을 가지고 있습니다.
 - 프로젝트의 처음과 끝은 UI/UX가 결정한다! 라는 마음가짐으로 개발합니다.(너무 너무 중요하다고 생각합니다.)
@@ -59,7 +59,7 @@
   <a href="https://codermun-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://codermun-log.tistory.com/"/></a>
   <a href="mailto:muntrock@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muntrok@gmail.com"/></a>
  
-</p>
+</p> -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muntari29&show_icons=true&theme=dracula)
