@@ -26,7 +26,7 @@ That's why my motto is just three words.
 ## 💼 Experience
 
 - 5 years of building web, mobile, and server applications
-- Built services at companies and in startup teams
+- Built services at both large enterprises and startups
 - Leading large-scale projects as an IT Lead
 - Building products end to end with AI
 
